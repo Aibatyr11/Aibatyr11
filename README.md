@@ -29,18 +29,6 @@
 
 ---
 
-### 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/Aibatyr11/Full_Stack_Project.git">
-    <p>Full_Stack_Project</p>
-  </a>
-  <a href="https://github.com/Aibatyr11/your-best-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aibatyr11&repo=your-best-project-2&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Aibatyr11">
@@ -55,7 +43,6 @@
 
 ### 🌍 Connect with me
 <p align="left">
-<a href="https://t.me/yourusername" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="36" height="36" alt="Telegram" /></a>
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
-<a href="mailto:your.email@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" height="36" alt="Email" /></a>
+<a href="https://t.me/@Aibatyr2" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="36" height="36" alt="Telegram" /></a>
+<a href="aibatyr111@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" height="36" alt="Email" /></a>
 </p>
