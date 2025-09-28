@@ -43,6 +43,11 @@
 
 ### 🌍 Connect with me
 <p align="left">
-<a href="https://t.me/@Aibatyr2" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="36" height="36" alt="Telegram" /></a>
-<a href="aibatyr111@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" height="36" alt="Email" /></a>
+<a href="https://t.me/Aibatyr2" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" height="36" alt="Telegram" />
+</a>
+<a href="mailto:aibatyr111@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" height="36" alt="Email" />
+</a>
 </p>
+
