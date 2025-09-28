@@ -65,10 +65,7 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
 
 
