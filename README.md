@@ -52,7 +52,18 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aibatyr11&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aibatyr11&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aibatyr11&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
+</p>
+
 
 ## 🌍 Connect with me  
 <p align="center">
