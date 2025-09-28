@@ -1,13 +1,31 @@
 👋 Hi, my name is **Bakhitbekov Aibatyr**  
 ==================================================================================================================
 
-💻 Student • Developer • Tech Enthusiast  
-
-- 🌱 I’m currently learning **C++, Python, Web Development, and Databases**  
-- 🚀 Interested in **Backend, Fullstack, and Software Architecture**  
-- 📫 How to reach me: [Your Email] | [LinkedIn] | [Telegram]  
+👨‍💻 Student · Software Engineer · Fullstack Enthusiast  
+4th-year @ IITU (Software Engineering) · IT Step Academy
 
 ---
+
+⚡ What I build (plain English)  
+- **Python & Django** — backend apps, REST APIs, CRUD systems.  
+- **JavaScript / React** — interactive UIs and SPAs.  
+- **Node.js** — server-side projects and API integrations.  
+- **Databases (PostgreSQL, MongoDB)** — design, queries, optimization.  
+- **Fullstack projects** — from database to frontend.  
+
+🎓 I’m combining studies at **IITU (4th year, Software Engineering)** and **IT Step Academy**,  
+where I focus on practical web development and modern technologies.  
+
+---
+
+🧩 Core skills  
+- **Backend**: Python, Django, Node.js  
+- **Frontend**: JavaScript, React, HTML5, CSS3  
+- **Databases**: PostgreSQL, MongoDB  
+- **Other**: Git/GitHub, REST APIs, VS Code  
+
+---
+
 
 ### 🛠️ Skills
 <p align="left">
