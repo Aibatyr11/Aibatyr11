@@ -70,8 +70,10 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
 
 ---
 
-## 🐍 Snake Animation  
-![Snake animation](https://github.com/Aibatyr11/Aibatyr11/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake animation
+
+![GitHub Snake Light](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
