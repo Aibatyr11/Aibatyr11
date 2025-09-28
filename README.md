@@ -1,24 +1,13 @@
 # 👋 Hi, I’m Bakhitbekov Aibatyr  
 
 🎓 4th-year Software Engineering Student @ IITU · IT Step Academy  
-👨‍💻 Fullstack Developer in training (Python/Django · React/Node.js)  
+👨‍💻 Fullstack Developer in training (Python/Django · React)  
 
----
 
-## ⚡ What I build (in plain English)  
-- **Backend apps & REST APIs** → Python/Django, Node.js  
-- **Interactive UIs & SPAs** → React, JavaScript  
-- **Databases** → PostgreSQL, MongoDB  
-- **Fullstack projects** → from DB schema to frontend  
-
----
-
-## 🧩 Core skills  
-- **Backend**: Python, Django, Node.js  
-- **Frontend**: JavaScript, React, HTML5, CSS3  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git/GitHub, REST APIs, VS Code  
-
+## 👨‍💻 About Me 
+I’m an aspiring Fullstack Developer, with a stronger focus on Python and Django for backend development. I can build complete web applications — from database and server logic to frontend interfaces.
+I also have experience with JavaScript, React, Node.js, and some knowledge of Java Spring, which allows me to work confidently on both frontend and backend tasks.
+Currently, I’m a 4th-year student at IITU (Software Engineering) and also studying at IT Step Academy. I’m always eager to learn new technologies, improve my skills, and grow as a developer.
 ---
 
 ## 🛠️ Skills
