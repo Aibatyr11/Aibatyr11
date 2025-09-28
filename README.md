@@ -64,13 +64,10 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
   <img src="https://komarev.com/ghpvc/?username=Aibatyr11&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
+
 
 ---
 
-## 🐍 Snake animation
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
