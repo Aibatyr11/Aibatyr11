@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-My name is **Bakhitbekov Aibatyr**  
+👋 Hi, my name is **Bakhitbekov Aibatyr**  
 ==================================================================================================================
 
 💻 Student • Developer • Tech Enthusiast  
@@ -26,6 +25,18 @@ My name is **Bakhitbekov Aibatyr**
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+</p>
+
+---
+
+### 📌 Pinned Projects
+<p align="center">
+  <a href="https://github.com/Aibatyr11/your-best-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aibatyr11&repo=your-best-project-1&theme=radical" />
+  </a>
+  <a href="https://github.com/Aibatyr11/your-best-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aibatyr11&repo=your-best-project-2&theme=radical" />
+  </a>
 </p>
 
 ---
