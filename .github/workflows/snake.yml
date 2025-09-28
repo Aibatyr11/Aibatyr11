@@ -1,14 +1,15 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    # запуск каждый день в 00:00 UTC
+  schedule: # запускается раз в день
     - cron: "0 0 * * *"
-  workflow_dispatch: # возможность запускать вручную тоже остаётся
+  workflow_dispatch: # позволяет запускать вручную
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 👈 это даёт права на запись в репо
 
     steps:
       - name: Checkout repository
@@ -18,11 +19,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Aibatyr11
-          outputs: dist/github-contribution-grid-snake.svg
-                   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
