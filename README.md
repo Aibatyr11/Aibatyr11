@@ -31,8 +31,8 @@
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/Aibatyr11/Full_Stack_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aibatyr11&repo=your-best-project-1&theme=radical" />
+  <a href="https://github.com/Aibatyr11/Full_Stack_Project.git">
+    <p>Full_Stack_Project</p>
   </a>
   <a href="https://github.com/Aibatyr11/your-best-project-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aibatyr11&repo=your-best-project-2&theme=radical" />
