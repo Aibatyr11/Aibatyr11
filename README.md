@@ -64,9 +64,18 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
   <img src="https://komarev.com/ghpvc/?username=Aibatyr11&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-Django-green?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql&logoColor=white" />
+</p>
+
+
 
 ## 🌍 Connect with me  
 <p align="center">
   <a href="https://t.me/Aibatyr2"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" height="36" alt="Telegram" /></a>
   <a href="mailto:aibatyr111@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36" height="36" alt="Email" /></a>
 </p>
+
