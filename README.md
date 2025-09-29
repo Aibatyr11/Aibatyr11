@@ -65,7 +65,6 @@ I’m eager to **learn new technologies, grow my skills, and take on real-world 
 </p>
 
 
-
 ---
 
 
