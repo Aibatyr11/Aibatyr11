@@ -1,5 +1,4 @@
 # Hi, I’m Bakhitbekov Aibatyr  
-
 🎓 4th-year Software Engineering Student @ IITU · IT Step Academy  
 👨‍💻 Aspiring Fullstack Developer (Python/Django · React)  
 
