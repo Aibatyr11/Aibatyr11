@@ -37,22 +37,14 @@ I’m eager to learn new technologies, grow my skills, and take on real-world ch
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aibatyr11&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Aibatyr11&show_icons=true&theme=radical&hide_border=true" height="180" alt="Aibatyr's GitHub Stats"/>
   </a>
   <a href="https://github.com/Aibatyr11">
-    <img src="https://streak-stats.onrender.com/?user=Aibatyr11&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Aibatyr11&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aibatyr11&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
-  </a>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/Aibatyr11">
