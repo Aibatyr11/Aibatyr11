@@ -21,8 +21,8 @@ I’m eager to learn new technologies, grow my skills, and take on real-world ch
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
@@ -39,25 +39,25 @@ I’m eager to learn new technologies, grow my skills, and take on real-world ch
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aibatyr11&show_icons=true&theme=radical&hide_border=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aibatyr11&show_icons=true&theme=radical&hide_border=true" height="180" alt="Aibatyr's GitHub Stats"/>
   </a>
   <a href="https://github.com/Aibatyr11">
-    <img src="https://streak-stats.demolab.com?user=Aibatyr11&theme=radical&hide_border=true" height="180" />
+    <img src="https://streak-stats.demolab.com?user=Aibatyr11&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aibatyr11&layout=compact&theme=radical&hide_border=true" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aibatyr11&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aibatyr11&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aibatyr11&theme=redical&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aibatyr11&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aibatyr11&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -66,8 +66,7 @@ I’m eager to learn new technologies, grow my skills, and take on real-world ch
 
 ---
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake.svg)
 
 ---
 
