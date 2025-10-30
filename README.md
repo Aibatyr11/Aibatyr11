@@ -1,5 +1,3 @@
-# I’m Bakhitbekov Aibatyr  
-
 ---
 
 ## 🛠️ Skills  
