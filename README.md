@@ -19,35 +19,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aibatyr11&show_icons=true&theme=radical&hide_border=true" height="180" alt="Aibatyr's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Aibatyr11">
-    <img src="https://streak-stats.demolab.com?user=Aibatyr11&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aibatyr11">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aibatyr11&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aibatyr11&theme=redical&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aibatyr11&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aibatyr11&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/Aibatyr11/Aibatyr11/output/github-contribution-grid-snake.svg#gh-light-mode-only)
