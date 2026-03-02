@@ -1,5 +1,4 @@
 ---
-
 ## 🛠️ Skills  
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
