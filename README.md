@@ -36,6 +36,6 @@
 
 ## 🌍 Connect with me  
 <p align="center">
-  <a href="https://t.me/Aibatyr2" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" /></a>
-  <a href="mailto:aibatyr111@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email" /></a>
+  <a href="https://t.me/Aibatyr2" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:aibatyr111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
