@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BCD4&center=true&vCenter=true&width=650&lines=Привет,+я+Aibatyr!;Python+%2B+Web+Developer;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BCD4&center=true&vCenter=true&width=650&lines=Hi,+I'm+Aibatyr!;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aibatyr11&color=00BCD4&style=flat-square&label=Просмотры+профиля" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aibatyr11&color=00BCD4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
